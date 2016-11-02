@@ -1,0 +1,19 @@
+/*!
+ * Smalltemp-bootstrap v1.0.1
+ * Website: https://github.com/smalltemp
+ * Licensed under MIT. Copyright (c) 2016 Smalltemp.
+ * Description: SASS scaffolding based on:
+    - bootstrap (http://getbootstrap.com/).
+ */
+
+
+
+
+// fonts
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+// vendors
+@import "vendors/bootstrap/bootstrap";
+
+// layout
+@import "layout/layout";
