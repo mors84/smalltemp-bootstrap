@@ -18,7 +18,7 @@ Warning: Install PHP 7+ or change a constant to variable in meta content. Array 
 ## What's included
 
 ```
-smalltemp-bourbon/
+smalltemp-bootstrap/
 ├── css/
 │   ├── main.css
 │   └── main.css.map
